@@ -1,4 +1,4 @@
-# Rostelecom
+Rostelecom
 Дипломный проект Rostelecom сайта: "https://b2c.passport.rt.ru"
 
 При тестированиии сайта были написаны: https://docs.google.com/spreadsheets/d/1SayI0DmpXmf9frkkHuvCGsdSYOjgymHKpwjH2nYTxrc/edit#gid=0
